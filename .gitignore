@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+
+retraction_check_report.md
+retraction_check_progress.jsonl
+retraction_responses/
+retraction_search_response.html
+retraction_search_results.html

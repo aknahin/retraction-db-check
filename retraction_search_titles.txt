@@ -1,0 +1,26 @@
+An intelligent system for false alarm reduction in infrared forest-fire detection
+Sensor-based pedestrian protection
+Imaging of breast cancer with mid- and long-wave infrared camera
+HgCdTe infrared detector material: history, status and outlook
+Long-wavelength 256×256 GaAs/AlGaAs quantum well infrared photodetector (QWIP) palm-size camera
+Demonstration of a two color 320 × 256 Quantum Dots-in-a well focal plane array
+Novel quantum well, quantum dot, and superlattice heterostructure based infrared detectors
+Design of metamaterial absorber with ultra-broadband and high absorption
+Taming the blackbody with infrared metamaterials as selective thermal emitters
+Tunable infrared plasmonic absorption by metallic nanoparticles
+Infrared perfect absorber and its application as plasmonic sensor
+High performance optical absorber based on a plasmonic metamaterial
+Wavelength selective uncooled infrared sensor by plasmonics
+Wavelength-tunable microbolometers with metamaterial absorbers
+Conformal dual-band near-perfectly absorbing midinfrared metamaterial coating
+Uncooled two-microbolometer stack for long wavelength infrared detection
+Microbolometer compatible metamaterial absorber for multispectral imaging
+Wavelength and thermal distribution selectable microbolometers based on metamaterial absorbers
+Multispectral microbolometers for the midinfrared
+Handbook of Optical Constants of Solids
+Plasmonic metamaterial absorber for multispectral MWIR microbolometers
+Ultra-broadband metamaterial absorber in long wavelength infrared band based on resonant cavity modes
+Polarization insensitive, metamaterial absorber-enhanced long-wave infrared detector
+A spectrally selective visible microbolometer based on planar subwavelength thin films
+Metamaterial microbolometers for multi-spectral infrared polarization imaging
+Plasmonic metamaterial absorbers with strong coupling effects for small pixel infrared detectors
