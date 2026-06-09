@@ -1,6 +1,6 @@
 # Retraction Database Check
 
-Batch-check article titles against the Retraction Watch Database search page.
+Batch-check article titles against the [Retraction Watch Database search page](https://retractiondatabase.org/RetractionSearch.aspx).
 
 The script reads one title per line from a text file, searches each title in the
 Retraction Watch Database, and writes a Markdown report. A title is marked `OK`
